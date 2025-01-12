@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
             // Title
             Center(
               child: Text(
-                'Understanding GitFlow',
+                'What is the GitFlow?',
                 style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF003366),
